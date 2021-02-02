@@ -1,0 +1,16 @@
+[
+{
+  "modid": "playersize",
+  "name": "Player Size",
+  "description": "Change the Size of your player.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vSKAH"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
